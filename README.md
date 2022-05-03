@@ -8,10 +8,13 @@ To write a program to implement the linear regression using gradient descent.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the packages.
+2. Read the file with every datas.
+3. Assign column hours to x, and column scores to y.
+4. Train the model with the test data.
+5. Print the predicted values.
+6. Plot the graph for hours vs scores ( with training and testings datas)
+7. End
 
 ## Program:
 ```
@@ -52,8 +55,10 @@ RegisterNumber:  212221040177
 ```
 
 ## Output:
-![linear regression using gradient descent]()
-
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.1.png)
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.2.png)
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.3.png)
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.4.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
