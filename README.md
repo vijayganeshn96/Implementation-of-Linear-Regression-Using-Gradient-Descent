@@ -18,6 +18,12 @@ To write a program to implement the linear regression using gradient descent.
 
 ## Program:
 ```
+/*
+Program to implement the linear regression using gradient descent.
+Developed by: Vijay Ganesh N
+RegisterNumber:  212221040177
+*/
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -47,18 +53,14 @@ plt.xlabel("hours")
 plt.ylabel("scores")
 plt.show()
 dataset.tail()
-/*
-Program to implement the linear regression using gradient descent.
-Developed by: Vijay Ganesh N
-RegisterNumber:  212221040177
-*/
+
 ```
 
 ## Output:
-![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.1.png)
-![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.2.png)
-![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.3.png)
-![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/exp%202.4.png)
+![linear regression using gradient descent]()
+![linear regression using gradient descent]()
+![linear regression using gradient descent]()
+![linear regression using gradient descent]()
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
