@@ -57,10 +57,16 @@ dataset.tail()
 ```
 
 ## Output:
-![linear regression using gradient descent]()
-![linear regression using gradient descent]()
-![linear regression using gradient descent]()
-![linear regression using gradient descent]()
+#### DATA HEAD
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/data%20head.png)
+#### ASSIGNED VALUE FOR X AND Y
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/assign.png)
+#### GRAPH 1
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/graph%201.png)
+#### GRAPH 2
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/graph%202.png)
+#### DATA TAIL
+![linear regression using gradient descent](https://github.com/vijayganeshn96/Implementation-of-Linear-Regression-Using-Gradient-Descent/blob/main/data%20tail.png)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
